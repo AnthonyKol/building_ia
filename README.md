@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-The goal is to help job seeker to stay active in their job research through an automated interview scheduling system. The core idea of it is that the user choose a minimum number of interview he would like to have per week, let's say 4. If by the end of the week the user only have 1 interview registered for the following week, the system will match him automatically with the most relevant job offers and schedule automatically 3 more interviews. 
+The core idea of it is that the user choose a minimum number of interview he would like to have per week. The system will match him automatically with the most relevant job offers and schedule them automatically.
 
 
 ## Background
